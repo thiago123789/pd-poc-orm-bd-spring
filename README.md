@@ -43,7 +43,11 @@ Passos:
 
 4. Ler sobre JPA e Spring Data para criar o CRUD e fazer funcionar as operações.
 
+#### Configuração básica Spring Initialize 
 
+![image](https://user-images.githubusercontent.com/11702372/188285975-0738abca-f7d7-46e9-b0ed-4e9fc42e5d15.png)
+
+> Pode mudar a versão do java e as informções do project metadata, porém não recomendo alterar as outras configurações agora.
 
 #### Links Uteis
 
