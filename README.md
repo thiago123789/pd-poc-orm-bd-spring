@@ -44,3 +44,11 @@ Passos:
 4. Ler sobre JPA e Spring Data para criar o CRUD e fazer funcionar as operações.
 
 
+
+#### Links Uteis
+
+- [Spring Initializr](https://start.spring.io/)
+- [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+- [Consuming a RESTful Web Service](https://spring.io/guides/gs/consuming-rest/)
+- [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+- [Accessing JPA Data with REST](https://spring.io/guides/gs/accessing-data-rest/)
